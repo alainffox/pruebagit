@@ -6,9 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    Bienevienod a prueb GIT 3 - RAMA MASTER v3gir diff
+<h1>Hola mundo con GIT</h1>
+    Bienevienod a prueb GIT 3 - RAMA MASTER
     Ahora estamos haciendo cambios
-    Cambio seungo
+    Cambio segundo
     tercer cambio quiero compararlo con el original
+    Cuarto cambio, primero revisamos
 </body>
 </html>
